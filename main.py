@@ -44,7 +44,6 @@ async def on_mention(message: discord.Message):
 
         children = []
         for block in parse_md(summary):
-            print(block)
             children.append(block)
 
         notion.pages.create(

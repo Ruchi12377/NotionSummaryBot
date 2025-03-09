@@ -88,7 +88,7 @@ Discord APIを利用するには、以下の手順でBotトークンを取得し
 1. Botを起動します:
 
 ```shell
-python bot.py
+python main.py
 ```
 
 2. DiscordのチャンネルでBotをメンションし、URLを含めたメッセージを送信します:
