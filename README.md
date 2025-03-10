@@ -1,5 +1,8 @@
 # Notion Summary Bot
 
+> **⚠️ 注意:** このプロジェクトはJavaScriptで書き換えられ、新しいバージョンが公開されています。  
+> 最新のバージョンは [こちら](https://github.com/Ruchi12377/NotionMaid.git) を使用してください。
+
 Discord Botがメンションされた際にURLを含むメッセージを検出し、そのURLのコンテンツを要約してNotionのページとして保存するBotです。
 
 ## 機能
